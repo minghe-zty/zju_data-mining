@@ -1,2 +1,2 @@
 # zju_data-mining
-25 spring 数据挖掘导论
+25 spring lsj老师班 数据挖掘导论
